@@ -34,8 +34,8 @@
 	url = https://github.com/aykevl/macos-minimal-sdk.git
 [submodule "src/net"]
 	path = src/net
-	url = https://github.com/tinygo-org/net.git
-	branch = dev
+	url = https://github.com/sd2k/net.git
+	branch = add-more-http-packages
 [submodule "lib/wasi-cli"]
 	path = lib/wasi-cli
 	url = https://github.com/WebAssembly/wasi-cli
